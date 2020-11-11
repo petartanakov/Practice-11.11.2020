@@ -1,5 +1,6 @@
 Project owner - Ivan
 Business analyst - Neval
 Scrum Master - Amanissa
-Developers - Alexandr; Crystal; Nuran; Mustafa; Egemen; Burcu;
-Testers - Ruslan; Petar; Artsemi;
+Developers - Alexandr; Crystal; Nuran; Mustafa; Egemen; Burcu
+Testers - Ruslan; Petar; Artsemi
+Our Sprint cycle is 2 weeks.

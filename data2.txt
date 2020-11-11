@@ -1,5 +1,5 @@
 Grooming meeting
-Demo
-Sprint Planning
-Daily Stand-Up
-Retro
+Demo meeting
+Sprint Planning meeting
+Daily Stand-Up meeting
+Retro meeting
